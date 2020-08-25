@@ -14,8 +14,5 @@
         <p> 안녕하세요.<br>
              임동균입니다.</p>
              
-        <a href="https:youtube.com">유튜브 바로가기</a>
-        <a href="https:naver.com"
-        target="_blank"> 네이버바로가기</a>
     </body>
 </html>
