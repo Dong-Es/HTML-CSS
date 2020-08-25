@@ -1,0 +1,12 @@
+HTML 이란 (Hyper Text Markup Language)은 가장 단순한형태의 웹 언어이다. 
+
+ HTML의 구조
+
+<!Doctype html> :Document Type의 약자로 작성한 HTML이 어떤 방식의 HTML코드로 작성 되는지는 선언하는 브라우져 에게 알려주는 문자.
+
+<html>.....</html> : html태그/코드는 이태그로 묶인다.
+
+<HEAD>...</HEAD>- 문서의 상단 제목을 표시하는 <TITLE>태그, 문서의 정보를 설정하는 <meta>태그, <link>태그등 화면에 출력되지 않는 설정 작성
+
+<BODY>...</BODY>- 실제 화면에 콘텐츠 작성 
+
