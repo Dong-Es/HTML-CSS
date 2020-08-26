@@ -1,0 +1,27 @@
+button
+{
+    width: 100px;
+    height: 75px;
+    background-color: #FFA500;
+    color: #FFF; 
+    border:none;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow:0 4px 16px rgba(253, 198, 123, 0.7);
+}
+
+button:focus
+{
+    outline-color: 0;
+}
+button:hover
+{
+    background-color: rgba(253, 198, 123, 0.7);
+    cursor : pointer;
+    box-shadow: 0 2px 4px rgba(253, 198, 123, 0.7);
+}
