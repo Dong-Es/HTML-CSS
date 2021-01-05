@@ -6,7 +6,7 @@ HTML은 문서의 구조를 맡고있다. <br>
 <h3>CSS (Cascading Style Sheets)</h3> <br>
 CSS는 문서의 모양을 맡고있다. <br>
 <h3>JavaScript</h3> <br>
-Javascript는 움직임과같은 이벤트효과를 맡고있다 <br>
+Javascript는 움직임과같은 이벤트 효과를 맡고있다 <br>
 <br>
 <hr>
   <br>
