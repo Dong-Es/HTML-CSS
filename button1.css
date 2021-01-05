@@ -1,0 +1,29 @@
+body{
+    background-color: #222;
+    width: 720px;
+    height: 480px;
+}
+.button1{
+    position: absolute;
+    background-color: black;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    top: 35%;
+    left: 35%;
+    border: none;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+.button1:hover{
+    transition: 4s;
+    transform: scale(2.5); /*커진다 skew 작아진다.*/
+    background-image: url(shale.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 4px white solid;
+    text-indent: -100000px;
+    color: none;
+    overflow: hidden;
+}
